@@ -50,12 +50,12 @@
 
 ### 📤 Upload Document
 <p align="center">
-  <img src="./assets/upload.gif" width="700"/>
+ <img src="Screenshot_3-4-2026_95050_doc-analyzer-flax.vercel.app.jpeg" width="700"/>
 </p>
 
 ### 📊 Dashboard
 <p align="center">
-  <img src="Screenshot_3-4-2026_95050_doc-analyzer-flax.vercel.app.jpeg" width="700"/>
+    <img src="Screenshot_3-4-2026_9548_doc-analyzer-flax.vercel.app.jpeg" width="700"/> 
 </p>
 
 ---

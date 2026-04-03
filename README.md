@@ -1,7 +1,7 @@
 # 🚀 DocAnalyzer AI
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=900&lines=DocuBuddy+AI;Smart+Document+Analysis;AI+Powered+Insights;Built+for+Hackathons+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=900&lines=DocAnalyzer+AI;Smart+Document+Analysis;AI+Powered+Insights;Built+for+Hackathons+🚀" />
 </p>
 
 ---

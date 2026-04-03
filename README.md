@@ -15,7 +15,8 @@
 ---
 
 ## 🌐 Live Demo
-🔗 doc-analyzer-flax.vercel.app
+🔗 doc-analyzer-flax.vercel.app /n docanalyzer1.netlify.app
+
 
 ---
 

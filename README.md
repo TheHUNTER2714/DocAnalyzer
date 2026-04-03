@@ -22,7 +22,8 @@
 ## 🎬 Demo Preview
 
 <p align="center">
-  <img src="./assets/demo.gif" width="800"/>
+  <img src="Screenshot_3-4-2026_94950_doc-analyzer-flax.vercel.app.jpeg" width="800"/>
+  <img src="" width="800"/>
 </p>
 
 ---

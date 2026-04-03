@@ -55,7 +55,7 @@
 
 ### 📊 Dashboard
 <p align="center">
-  <img src="./assets/dashboard.gif" width="700"/>
+  <img src="Screenshot_3-4-2026_95050_doc-analyzer-flax.vercel.app.jpeg" width="700"/>
 </p>
 
 ---

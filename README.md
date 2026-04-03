@@ -68,3 +68,30 @@
 - Deployment: Vercel  
 
 ---
+---
+
+## 🤝 Acknowledgements & References
+
+- 💡 Guidance and development support assisted by ChatGPT (AI-based coding and debugging help)  
+- ⚡ UI/UX inspiration and rapid prototyping supported by Lovable AI  
+- 🤖 AI functionality powered by OpenAI API  
+
+---
+
+## 🔁 Fallback API Strategy
+
+This project is designed with a **fallback mechanism**:
+
+- 🧠 Primary AI: OpenAI API  
+- 🔄 Fallback AI: Lovable AI (used when primary API is unavailable or fails)
+
+This ensures:
+- ✅ Higher reliability  
+- ⚡ Continuous response availability  
+- 🛡️ Better user experience  
+
+---
+
+## 📌 Note
+
+All API keys are securely stored using environment variables and are not exposed publicly.

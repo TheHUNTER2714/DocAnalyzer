@@ -15,7 +15,7 @@
 ---
 
 ## 🌐 Live Demo
-🔗 https://YOUR-VERCEL-LINK.vercel.app
+🔗 doc-analyzer-flax.vercel.app
 
 ---
 
@@ -67,65 +67,3 @@
 - Deployment: Vercel  
 
 ---
-
-## 🔑 Environment Setup
-
-```env
-OPENAI_API_KEY=your_api_key_here
-npm install
-git clone https://github.com/TheHUNTER2714/DocuBuddy.git
-cd DocuBuddy
-npm install
-▶️ Run Locally
-npm run dev
-🌍 Deployment
-
-Deployed using Vercel 🚀
-
-🧠 Future Scope
-🧾 Resume Analyzer
-📊 AI Insights Dashboard
-🗣️ Voice Commands
-🔍 Semantic Search
-👨‍💻 Author
-
-Ayush Agnihotri (Hunter)
-GitHub: https://github.com/TheHUNTER2714
-
-⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
-
-
----
-
-# ⚡ ALSO UPDATE THESE (IMPORTANT)
-
-### 🔁 1. Project Name Everywhere
-Replace:
-- `DocuBuddy` → `DocAnalyzer`
-
----
-
-### 📁 2. Optional (Rename Folder)
-```bash
-mv DocuBuddy DocAnalyzer
-🌐 3. Vercel Project Name
-
-In Vercel:
-
-Rename project → doc-analyzer
-📦 4. package.json (optional)
-"name": "doc-analyzer"
-🎬 GIF Reminder
-
-Make sure you have:
-
-/assets/demo.gif
-/assets/upload.gif
-/assets/dashboard.gif
-🔥 FINAL TOUCH (Looks PREMIUM)
-
-Add this at very top of README:
-
-![Banner](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
